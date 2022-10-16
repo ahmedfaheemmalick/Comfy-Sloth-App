@@ -1,6 +1,6 @@
 # Comfy App
 
-[live Site](https://a-comfy-app.netlify.app)
+[live Site](https://a-comfy-sloth-app.netlify.app)
 
 ![Home Page Comfy App](/preview-1.png)
 ![Products Page Comfy App](/preview-2.png)
